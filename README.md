@@ -14,6 +14,8 @@
 
 ### 2. MARCO TEÓRICO
 
+![](https://github.com/melaniegutierrez/INFORME-PROYECTO-I/blob/main/TEORIA.jpeg)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **Lista de Materiales:**
