@@ -14,7 +14,7 @@
 
 ### 2. MARCO TEÓRICO
 
-![](https://github.com/melaniegutierrez/INFORME-PROYECTO-I/blob/main/TEORIA.jpeg)
+![](https://github.com/melaniegutierrez/INFORME-PROYECTO-I/blob/main/TEORIA%202.jpeg)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -66,11 +66,13 @@ Hay que tener en cuenta, que para las conexiones en este elemento electrónico, 
 
 **PROCEDIMIENTO**
 
-Colocar los diferentes componentes del circuito en el protoboard, mediante el diagrama presentado, identificando, sus elementos:
+1. Colocar los diferentes componentes del circuito en el protoboard, mediante el diagrama presentado, identificando, sus elementos:
 
-Verificar cada una de sus polaridades, para que no existan cortos circuitos, si existe alguna mala conexión.
-Colocar cables adicionales, de preferencia largos, para que puedan cumplir con el funcionamiento del sensor de agua, al momento de colocarlos en el vaso, y llenarlo.
-Verificar el buen funcionamiento del circuito, y tomar apuntes.
+2. Verificar cada una de sus polaridades, para que no existan cortos circuitos, si existe alguna mala conexión.
+
+3. Colocar cables adicionales, de preferencia largos, para que puedan cumplir con el funcionamiento del sensor de agua, al momento de colocarlos en el vaso, y llenarlo.
+
+4. Verificar el buen funcionamiento del circuito, y tomar apuntes.
 
 ### 4. VIDEO
 
