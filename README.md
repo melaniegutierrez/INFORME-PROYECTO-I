@@ -86,7 +86,7 @@ Link:
 
 - Mecafenix, I. (2019, agosto 8). Aprende como funcionan los transistores. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/el-transistor/
 
-
+- Usaola, J., Moreno, M., Hambley, A., & Sierra, M. (2003). Circuitos eléctricos. Universitario, 77.
 
 
 
