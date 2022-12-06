@@ -78,9 +78,16 @@ Hay que tener en cuenta, que para las conexiones en este elemento electrónico, 
 
 ### 4. VIDEO
 
-Link: 
+Link: https://youtu.be/9o8R08Ac9fI
 
 ### 5. CONCLUSIONES
+
+- El funcionamiento de los circuitos electronicos debe ser conocido muy bien por el usuario, en tanque de sensor de nivel es un circuito basico conecta transistores y diodos, los cuales son basicos en el aprendizaje de un estudiante de ingenieria, podemos decir que la curiosidad por aprender nos lleva a conocer en este caso el funcionamiento de componentes que nos seran muy utiles en un futuro.
+
+- Al momento de realizar el proyecto, se tomo en cuenta mucho el funcionamiento del transistor, tomando en cuenta sus polos, datasheet, y como comprobar cada uno, debido que si la corriente circula indebidamente por uno de sus polos, el circuito no funcionara correctamente.
+
+- A través del proyecto se aprendió acerca del funcionamiento de los transistores en un circuito eléctrico, en este caso se lo usó para medir el nivel de agua existente en un vaso. Se comprobó que el transistor es un dispositivo que regula el flujo de corriente o de tensión sobre un circuito actuando como un interruptor o amplificador.
+
 
 ### 6. BIBLIOGRAFIA
 
